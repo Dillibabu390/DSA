@@ -38,28 +38,5 @@ public class MoveZeros {
 
 
 
-/*
-        int apointer = 0;
-        int bpointer = nums.length-1;
-
-        while( apointer <= bpointer){
-
-            if( nums[apointer] != 0 ){
-
-                int num = nums[apointer];
-                nums[apointer] = nums[bpointer];
-                nums[bpointer] = num;
-
-            }
-
-            apointer++;
-            bpointer--;
-
-        }
-*/
-
-
-
-
     }
 }
