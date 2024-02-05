@@ -10,7 +10,6 @@ public class RemoveDuplicates {
 
             if (arr[i-1] != arr[i]){
                 arr[temp] = arr[i];
-
                 temp++;
             }
 

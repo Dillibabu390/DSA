@@ -1,8 +1,6 @@
-package arrays;
+package algorithms.array;
 
-import java.util.Arrays;
-
-public class MajorityElement {
+public class BoreVoting {
     public static void main(String[] args) {
 
         int nums[] ={3,2,3};
